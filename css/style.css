@@ -1,0 +1,1672 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(154.54deg, #36C2C2 7.8%, #30797F 32.82%, #30797F 64.37%, #2C444F 79.29%);
+
+}
+.main{
+    width: 1200px;
+    height: 4593px;
+    background: linear-gradient(154.54deg, #36C2C2 7.8%, #30797F 32.82%, #30797F 64.37%, #2C444F 79.29%);
+    margin: 0 auto;
+}
+.screen {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    display: grid;
+}
+  
+  .screen .div {
+    margin: 0;
+    position: absolute;
+    background: linear-gradient(154.54deg, #36C2C2 7.8%, #30797F 32.82%, #30797F 64.37%, #2C444F 79.29%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 4593px;
+    overflow: hidden;
+    /* position: relative; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    
+  }
+
+
+.screen {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.screen .div {
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  background: linear-gradient(114.54deg, #36C2C2 7.8%, #30797F 32.82%, #30797F 64.37%, #2C444F 79.29%);
+
+  width: 1200px;
+  height: 4593px;
+  position: relative;
+}
+  .screen .overlap {
+    /* position: absolute; */
+    height: 1469px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1200px;
+  }
+
+  .screen .element-ai {
+    height: 1391px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 1200px !important;
+    
+  }
+  
+  .screen .text-wrapper {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    height: 168px;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 106px;
+  }
+  
+  .screen .text-wrapper-2 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 55px;
+    font-weight: 400;
+    height: 132px;
+    left: 633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 443px;
+  }
+  
+  .screen .rectangle {
+    border: 1px solid;
+    border-color: #f5f5f5;
+    height: 362px;
+    left: 73px;
+    position: absolute;
+    top: 1107px;
+    width: 1050px;
+  }
+  
+  .screen .img {
+    height: 362px;
+    left: 528px;
+    position: absolute;
+    top: 1107px;
+    width: 595px;
+  }
+  
+  .screen .text-wrapper-3 {
+/* Выезд машины */
+
+position: absolute;
+/* width: 184px; */
+height: 26px;
+left: 109px;
+top: 1350px;
+
+font-family: 'Tilda Sans VF';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+color: #F5F5F5;
+  }
+  
+  .screen .text-wrapper-4 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 42px;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1389px;
+    white-space: nowrap;
+  }
+  
+  .screen .rectangle-2 {
+    height: 787px;
+    left: 492px;
+    position: absolute;
+    top: 0;
+    width: 708px;
+    /* Rectangle 1 */
+
+
+
+background: url(.png);
+mix-blend-mode: luminosity;
+transform: rotate(10deg);
+
+  }
+  .screen .element {
+/* Опыт лечения зависмостей 17 лет */
+
+    position: absolute;
+    width: 215px;
+    height: 44px;
+    left: 897px;
+    top: 191px;
+
+    font-family: 'Tilda Sans VF', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    text-transform: uppercase;
+
+    color: #F5F5F5;
+  }
+  
+  .screen .navbar {
+    height: 17px;
+    left: 354px;
+    position: absolute;
+    top: 38px;
+    width: 772px;
+  }
+  
+  .screen .text-wrapper-5 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-6 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 98px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-7 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 155px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-8 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 264px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-9 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 377px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-10 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 491px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-11 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    height: 17px;
+    left: 675px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .p {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 119px;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 332px;
+    width: 463px;
+  }
+  
+  .screen .text-wrapper-12 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 104px;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1213px;
+    width: 446px;
+    /* Мы понимаем, как важно вовремя помочь в экстренной ситуации, поэтому наши специалисты несут круглосуточное дежурство и смогут выехать в любое время 24/7. */
+
+position: absolute;
+width: 446px;
+height: 104px;
+left: 109px;
+top: 1214px;
+
+font-family: 'Tilda Sans VF';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+
+color: #F5F5F5;
+
+
+  }
+  
+  .screen .element-2 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 44px;
+    left: 611px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 522px;
+    width: 264px;
+  }
+  
+  .screen .span {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .screen .text-wrapper-13 {
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .screen .group {
+    height: 346px;
+    left: 73px;
+    position: absolute;
+    top: 655px;
+    width: 1050px;
+  }
+  
+  .screen .overlap-group {
+    height: 346px;
+    position: relative;
+  }
+  
+  .screen .line {
+    height: 1px !important;
+    left: 6px !important;
+    object-fit: cover !important;
+    position: absolute !important;
+    top: 126px !important;
+    width: 1044px !important;
+  }
+  
+  .screen .group-2 {
+    height: 346px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 263px;
+  }
+  
+  .screen .text-wrapper-14 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 76px;
+  }
+  
+  .screen .ellipse {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    height: 20px;
+    left: 6px;
+    position: absolute;
+    top: 118px;
+    width: 20px;
+  }
+  
+  .screen .text-wrapper-15 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 55px;
+    font-weight: 400;
+    height: 66px;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-16 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 110px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 168px;
+    min-width: 400px;
+  }
+  
+  .screen .group-wrapper {
+    background-color: #1f9ed8;
+    border-radius: 50px;
+    height: 36px;
+    left: 24px;
+    position: absolute;
+    top: 320px;
+    width: 168px;
+  }
+  
+  .screen .group-3 {
+    height: 19px;
+    left: 20px;
+    position: relative;
+    top: 9px;
+    width: 127px;
+  }
+  
+  .screen .text-wrapper-17 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 19px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .arrow {
+    height: 15px !important;
+    left: 119px !important;
+    position: absolute !important;
+    top: 2px !important;
+    width: 12px !important;
+  }
+  
+  .screen .group-4 {
+    height: 346px;
+    left: 762px;
+    position: absolute;
+    top: 0;
+    width: 263px;
+  }
+  
+  .screen .group-5 {
+    height: 346px;
+    left: 381px;
+    position: absolute;
+    top: 0;
+    width: 263px;
+  }
+  
+  .screen .overlap-2 {
+    height: 779px;
+    left: -49px;
+    position: absolute;
+    top: 3712px;
+    width: 1303px;
+  }
+  
+  .screen .rectangle-3 {
+    border: 1px solid;
+    border-color: #f5f5f5;
+    height: 362px;
+    left: 113px;
+    position: absolute;
+    top: 56px;
+    width: 1050px;
+  }
+  
+  .screen .group-6 {
+    height: 87px;
+    left: 162px;
+    position: absolute;
+    top: 140px;
+    width: 399px;
+  }
+  
+  .screen .text-wrapper-18 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .div-2 {
+    color: transparent;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 52px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    width: 395px;
+  }
+  
+  .screen .text-wrapper-19 {
+    color: #f5f5f5;
+  }
+  
+  .screen .text-wrapper-20 {
+    color: #1f9ed8;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .screen .group-7 {
+    height: 87px;
+    left: 162px;
+    position: absolute;
+    top: 266px;
+    width: 399px;
+  }
+  
+  .screen .group-8 {
+    height: 87px;
+    left: 597px;
+    position: absolute;
+    top: 140px;
+    width: 399px;
+  }
+  
+  .screen .group-9 {
+    height: 94px;
+    left: 597px;
+    position: absolute;
+    top: 259px;
+    width: 296px;
+  }
+  
+  .screen .text-wrapper-21 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 42px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .div-wrapper {
+    background-color: #1f9ed8;
+    border-radius: 50px;
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 58px;
+    width: 168px;
+  }
+  
+  .screen .element-3 {
+    height: 531px;
+    left: 969px;
+    position: absolute;
+    top: 0;
+    width: 280px;
+  }
+  
+  .screen .rectangle-4 {
+    background-color: #30787f;
+    height: 303px;
+    left: 0;
+    position: absolute;
+    top: 476px;
+    width: 1303px;
+  }
+  
+  .screen .group-10 {
+    height: 17px;
+    left: 385px;
+    position: absolute;
+    top: 543px;
+    width: 794px;
+  }
+  
+  .screen .text-wrapper-22 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-23 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 134px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-24 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 226px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-25 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 371px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-26 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 521px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-27 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    height: 17px;
+    left: 673px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-28 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 113px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 598px;
+    width: 226px;
+  }
+  
+  .screen .text-wrapper-29 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 66px;
+    left: 113px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 659px;
+    width: 226px;
+  }
+  
+  .screen .group-11 {
+    height: 113px;
+    left: 385px;
+    position: absolute;
+    top: 586px;
+    width: 104px;
+  }
+  
+  .screen .text-wrapper-30 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-31 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 24px;
+  }
+  
+  .screen .text-wrapper-32 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+  }
+  
+  .screen .text-wrapper-33 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 72px;
+  }
+  
+  .screen .text-wrapper-34 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 96px;
+  }
+  .screen .group-12 {
+    height: 113px;
+    left: 756px;
+    position: absolute;
+    top: 586px;
+    width: 115px;
+  }
+  .screen .group-13 {
+    height: 113px;
+    left: 611px;
+    position: absolute;
+    top: 586px;
+    width: 115px;
+  }
+  .screen .group-14 {
+    height: 113px;
+    left: 907px;
+    position: absolute;
+    top: 586px;
+    width: 115px;
+  }
+
+  .a-rick {
+	color: #F5F5F5; /* Цвет обычной ссылки */
+    position: relative;
+    cursor: pointer;
+    text-decoration: none; /* Убираем подчеркивание */
+}
+.a-rick:after {
+    text-decoration: none;
+	content: "";
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px; /* Высота линии */
+    background-color: #F5F5F5; /* Цвет подчеркивания при исчезании линии*/
+    transition: width 0.5s; /* Время эффекта */
+}
+
+.a-rick:hover:after {
+    text-decoration: none;
+	content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 2px; /* Высота линии */
+    background-color: #F5F5F5; /* Цвет подчеркивания при появлении линии*/
+    transition: width 0.5s;  /* Время эффекта */
+}
+
+a {
+	color: #F5F5F5; /* Цвет обычной ссылки */
+    position: relative;
+    cursor: pointer;
+    text-decoration: none; /* Убираем подчеркивание */
+}
+a:after {
+    text-decoration: none;
+	content: "";
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px; /* Высота линии */
+    background-color: #F5F5F5; /* Цвет подчеркивания при исчезании линии*/
+    transition: width 0.5s; /* Время эффекта */
+}
+
+a:hover:after {
+    text-decoration: none;
+	content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 2px; /* Высота линии */
+    background-color: #F5F5F5; /* Цвет подчеркивания при появлении линии*/
+    transition: width 0.5s;  /* Время эффекта */
+}
+
+
+.screen .group-15 {
+    height: 65px;
+    left: 1058px;
+    position: absolute;
+    top: 586px;
+    width: 114px;
+  }
+  
+  .screen .group-16 {
+    height: 58px;
+    left: 113px;
+    position: absolute;
+    top: 523px;
+    width: 176px;
+  }
+  
+  .screen .text-wrapper-35 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 42px;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1555px;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-36 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 42px;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2007px;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-37 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 35px;
+    font-weight: 400;
+    height: 42px;
+    left: 73px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2608px;
+    white-space: nowrap;
+  }
+  
+  .screen .overlap-3 {
+    height: 210px;
+    left: 73px;
+    position: absolute;
+    top: 1633px;
+    width: 1023px;
+  }
+  
+  .screen .arrow-2 {
+    height: 44px !important;
+    left: 11px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 908px !important;
+  }
+  .screen .arrow-3{
+    height: 20px !important;
+    left: 22px !important;
+    position: absolute !important;
+    top: -1px !important;
+    width: 550px !important;
+  }
+  
+  .screen .group-17 {
+    height: 188px;
+    left: 0;
+    position: absolute;
+    top: 22px;
+    width: 242px;
+  }
+  
+  .screen .text-wrapper-38 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 68px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    width: 236px;
+  }
+  
+  .screen .text-wrapper-39 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 52px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+    width: 202px;
+  }
+  
+  .screen .ellipse-2 {
+    background-color: #1f9ed8;
+    border-radius: 7.5px;
+    height: 15px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 15px;
+  }
+  
+  .screen .group-18 {
+    height: 192px;
+    left: 263px;
+    position: absolute;
+    top: 18px;
+    width: 235px;
+  }
+  
+  .screen .text-wrapper-40 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 68px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 124px;
+    width: 229px;
+  }
+  
+  .screen .text-wrapper-41 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 65px;
+    width: 202px;
+  }
+  
+  .screen .ellipse-3 {
+    background-color: #1f9ed8;
+    border-radius: 11px;
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 22px;
+  }
+  
+  .screen .group-19 {
+    height: 196px;
+    left: 526px;
+    position: absolute;
+    top: 14px;
+    width: 240px;
+  }
+  
+  .screen .text-wrapper-42 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 68px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 128px;
+    width: 234px;
+  }
+  
+  .screen .text-wrapper-43 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 52px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 56px;
+    width: 219px;
+  }
+  
+  .screen .ellipse-4 {
+    background-color: #1f9ed8;
+    border-radius: 15px;
+    height: 30px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+  
+  .screen .group-20 {
+    height: 199px;
+    left: 789px;
+    position: absolute;
+    top: 11px;
+    width: 234px;
+  }
+  
+  .screen .text-wrapper-44 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 68px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 131px;
+    width: 228px;
+  }
+  
+  .screen .text-wrapper-45 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 72px;
+    width: 202px;
+  }
+  
+  .screen .ellipse-5 {
+    background-color: #1f9ed8;
+    border-radius: 18px;
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 36px;
+  }
+  
+  .screen .vector-instance {
+    height: 53px !important;
+    left: 964px !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 53px !important;
+  }
+
+  .vector{
+    margin-right: 10%;
+    /* Vector */
+
+    position: absolute;
+    left: 970px;
+    right: 20.17%;
+    top: .55%;
+    bottom: 63.29%;
+
+/* background: linear-gradient(143.03deg, #FFFFFF 10.13%, #36C2C2 85.18%); */
+
+  }
+  
+  .screen .group-21 {
+    background-color: #1f9ed8;
+    border-radius: 50px;
+    height: 36px;
+    left: 73px;
+    position: absolute;
+    top: 1915px;
+    width: 343px;
+  }
+  
+  .screen .group-22 {
+    height: 19px;
+    left: 27px;
+    position: relative;
+    top: 9px;
+    width: 295px;
+  }
+  
+  .screen .arrow-1 {
+    height: 15px !important;
+    left: 282px !important;
+    position: absolute !important;
+    top: 3px !important;
+    width: 12px !important;
+  }
+
+  .screen .arrow-4 {
+    height: 15px !important;
+    left: 152px !important;
+    position: absolute !important;
+    top: 1px !important;
+    width: 13px !important;
+  }
+  
+  .screen .group-23 {
+    height: 428px;
+    left: 73px;
+    position: absolute;
+    top: 2095px;
+    width: 239px;
+  }
+  
+  .screen .rectangle-5 {
+    height: 348px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 237px !important;
+  }
+  
+  .screen .text-wrapper-46 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 66px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 362px;
+    width: 202px;
+  }
+  
+  .screen .group-24 {
+    height: 428px;
+    left: 344px;
+    position: absolute;
+    top: 2095px;
+    width: 239px;
+  }
+  
+  .screen .group-25 {
+    height: 428px;
+    left: 615px;
+    position: absolute;
+    top: 2095px;
+    width: 239px;
+  }
+  
+  .screen .group-26 {
+    height: 428px;
+    left: 886px;
+    position: absolute;
+    top: 2095px;
+    width: 239px;
+  }
+  
+  .screen .frame {
+    border: 1px solid;
+    border-color: #f5f5f5;
+    height: 352px;
+    left: 73px;
+    overflow: hidden;
+    position: absolute;
+    top: 2705px;
+    width: 508px;
+  }
+  
+  .screen .img-2 {
+    height: 352px;
+    left: -1px;
+    position: absolute;
+    top: -1px;
+    width: 277px;
+  }
+  
+  .screen .text-wrapper-47 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 51px;
+    left: 276px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 144px;
+    width: 209px;
+  }
+  
+  .screen .text-wrapper-48 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    height: 17px;
+    left: 276px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 82px;
+  }
+  
+  .screen .text-wrapper-49 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 22px;
+    font-weight: 700;
+    height: 26px;
+    left: 276px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+    white-space: nowrap;
+  }
+  
+  .screen .group-27 {
+    background-color: #1f9ed8;
+    border-radius: 50px;
+    height: 36px;
+    left: 276px;
+    position: absolute;
+    top: 294px;
+    width: 168px;
+  }
+  
+  .screen .line-2 {
+    height: 1px !important;
+    left: 276px !important;
+    object-fit: cover !important;
+    position: absolute !important;
+    top: 112px !important;
+    width: 113px !important;
+  }
+  
+  .screen .line-3 {
+    height: 1px !important;
+    /* left: 276px !important; */
+    object-fit: cover !important;
+    position: absolute !important;
+    top: 34px !important;
+    width: auto !important;
+  }
+  
+  .screen .frame-2 {
+    border: 1px solid;
+    border-color: #f5f5f5;
+    height: 352px;
+    left: 615px;
+    overflow: hidden;
+    position: absolute;
+    top: 2705px;
+    width: 508px;
+  }
+  
+  .screen .group-28 {
+    height: 474px;
+    left: 73px;
+    position: absolute;
+    top: 3210px;
+    width: 1046px;
+  }
+  
+  .screen .group-29 {
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 70px;
+    width: 1052px;
+  }
+  
+  .screen .line-2-instance {
+    height: 1px !important;
+    left: 0 !important;
+    object-fit: cover !important;
+    position: absolute !important;
+    top: 33px !important;
+    width: 1044px !important;
+  }
+  
+  .screen .text-wrapper-50 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-51 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 191px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-52 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 401px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .text-wrapper-53 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 607px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .screen .group-30 {
+    height: 332px;
+    left: 0;
+    position: absolute;
+    top: 142px;
+    width: 1041px;
+  }
+  
+  .screen .group-31 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1045px;
+  }
+  
+  .screen .text-wrapper-54 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 44px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 500px;
+  }
+  
+  .screen .text-wrapper-55 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: 834px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 11px;
+    
+  }
+  
+  .screen .img-wrapper {
+    background-color: #1f9ed8;
+    border-radius: 10px;
+    height: 36px;
+    left: 999px;
+    position: absolute;
+    top: 4px;
+    width: 42px;
+  }
+  
+  .screen .group-32 {
+    height: 15px;
+    left: 15px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 12px;
+  }
+  
+  .screen .group-33 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 73px;
+    width: 1045px;
+  }
+  
+  .screen .group-34 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 146px;
+    width: 1045px;
+  }
+  
+  .screen .group-35 {
+    height: 44px;
+    left: 0;
+    position: absolute;
+    top: 219px;
+    width: 1045px;
+  }
+  
+  .screen .group-36 {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 296px;
+    width: 1045px;
+  }
+  
+  .screen .text-wrapper-56 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+    width: 607px;
+  }
+  
+  .screen .text-wrapper-57 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 22px;
+    left: 834px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 7px;
+  }
+  
+  .screen .group-37 {
+    background-color: #1f9ed8;
+    border-radius: 10px;
+    height: 36px;
+    left: 999px;
+    position: absolute;
+    top: 0;
+    width: 42px;
+  }
+  
+  .screen .group-38 {
+    background-color: #1f9ed8;
+    border-radius: 50px;
+    height: 36px;
+    left: 472px;
+    position: absolute;
+    top: 3116px;
+    width: 208px;
+  }
+  
+  .screen .group-39 {
+    height: 19px;
+    left: 25px;
+    position: relative;
+    top: 9px;
+    width: 150px;
+  }
+  
+  .screen .arrow-1-instance {
+    height: 15px !important;
+    left: 137px !important;
+    position: absolute !important;
+    top: 3px !important;
+    width: 12px !important;
+  }
+  
+  .screen .icon-instance-node {
+    height: 17px !important;
+    left: 1005px !important;
+    position: absolute !important;
+    top: 4535px !important;
+    width: 113px !important;
+  }
+  
+  .screen .group-40 {
+    height: 19px;
+    left: 64px;
+    position: absolute;
+    top: 4533px;
+    width: 744px;
+  }
+  
+  .screen .group-41 {
+    height: 19px;
+    position: relative;
+    width: 750px;
+  }
+  
+  .screen .text-wrapper-58 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-59 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 339px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .screen .text-wrapper-60 {
+    color: #f5f5f5;
+    font-family: "Tilda Sans VF-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 628px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
